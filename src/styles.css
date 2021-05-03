@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  position: absolute;
+}
+
+div {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  padding-top: 15%;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(255, 196, 0);
+}
